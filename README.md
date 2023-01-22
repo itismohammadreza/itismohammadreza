@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Mohammadreza </b><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/hi.gif" width="35"></h1>
 
-<h3 align="center">A passionate Frontend Developer from Iran</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <div align="center">
 	<a href="https://github.com/mohammadreza99/mohammadreza99">
@@ -29,23 +29,23 @@
 
 ## <img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/code.gif" width="35px"> **Tools, Technologies and Languages**
 
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-	<img margin="10px" height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/html.svg" alt="html">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/html.svg" alt="html">
 </a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-	<img margin="10px" height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/css.svg" alt="css">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/css.svg" alt="css">
 </a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-	<img margin="10px" height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/javascript.svg" alt="javascript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/javascript.svg" alt="javascript">
 </a>
-<a margin="10" href="https://getbootstrap.com" target="_blank">
-	<img margin="10px" height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/bootstrap.svg" alt="bootstrap">
+<a href="https://getbootstrap.com" target="_blank">
+	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/bootstrap.svg" alt="bootstrap">
 </a>
-<a margin="10" href="https://tailwindcss.com" target="_blank">
-	<img margin="10px" height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/tailwind.svg" alt="tailwind">
+<a href="https://tailwindcss.com" target="_blank">
+	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/tailwind.svg" alt="tailwind">
 </a>
-<a margin="10" href="https://sass-lang.com" target="_blank">
-	<img margin="10px" height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/sass.svg" alt="sass">
+<a href="https://sass-lang.com" target="_blank">
+	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/sass.svg" alt="sass">
 </a>
 <a href="https://mui.com" target="_blank">
 	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/materialui.svg" alt="material ui">
@@ -71,15 +71,14 @@
 <a href="https://www.typescriptlang.org" target="_blank">
 	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/typescript.svg" alt="typescript">
 </a>
-<!-- <a margin="10" href="https://nextjs.org" target="_blank">
-	<img margin="10px" height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/nextjs.svg" alt="next js">
+<!-- <a href="https://nextjs.org" target="_blank">
+	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/nextjs.svg" alt="next js">
 </a> -->
-<!-- <a margin="10" href="https://react-redux.js.org" target="_blank">
-	<img margin="10px" height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/redux.svg" alt="redux">
+<!-- <a href="https://react-redux.js.org" target="_blank">
+	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/redux.svg" alt="redux">
 </a> -->
 
-## <img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/handshake.gif" width="35px"> **Let's
-Connect..!**
+## <img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/handshake.gif" width="35px"> **Let's Connect..!**
 
 <p align="center">
 	<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
