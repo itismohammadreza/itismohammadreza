@@ -1,16 +1,16 @@
-<h1 align="center"><b>Hi , I'm Mohammadreza </b><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/hi.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Mohammadreza </b><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/hi.gif" alt="hi" width="35"></h1>
 
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <div align="center">
 	<a href="https://github.com/mohammadreza99/mohammadreza99">
- 		<img  src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/grid-snake.svg" alt="snake" />
+ 		<img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/grid-snake.svg" alt="snake" />
 	</a>
 </div>
 
 ## <img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/about.gif" width="35px"> **About me**
 
-<img align="right" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/coding.gif" width=250px>
+<img align="right" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/coding.gif" alt="coding" width=250px>
 
 - 🌱 I’m a passionate Self-taught Front-end developer
 
@@ -88,5 +88,5 @@
 	<a href="https://candida-noronha.web.app/"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/website.png" alt="Website"/></a>
 	<a href="mailto:shahbaziweb@gmail.com"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/mohammadreza99"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/github.png" alt="GitHub"/></a>
-	<a href="www.linkedin.com/in/mohammadrezashahbazi"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/mohammadrezashahbazi"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/linkedin.png" alt="LinkedIn"/></a>
 </p>
