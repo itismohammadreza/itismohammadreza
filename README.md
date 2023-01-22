@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **shahbaziweb@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/mohammadreza99/mohammadreza99" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/Mohammadreza-Shahbazi.pdf" target="blank">Resume</a>
 
 <br/>
 
@@ -57,7 +57,7 @@
 	<img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/git.svg" width="40" height="40" alt="git">
 </a>
 <a href="https://angular.io" target="_blank">
-	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/angularjs.svg" alt="angular">
+	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/angular.svg" alt="angular">
 </a>
 <a href="https://nativescript.org" target="_blank">
 	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/nativescript.svg" alt="nativescript">
