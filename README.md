@@ -19,7 +19,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 📝 Personal website [link](https://www.shahbazi.github.io)
+- 📝 Personal website [link](https://shahbazi.github.io)
 
 - 📫 How to reach me **shahbaziweb@gmail.com**
 
@@ -68,7 +68,7 @@
 <a href="https://postman.com" target="_blank">
 	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/postman.svg" alt="postman">
 </a>
-<a href="https://www.typescriptlang.org" target="_blank">
+<a href="https://typescriptlang.org" target="_blank">
 	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/typescript.svg" alt="typescript">
 </a>
 <!-- <a href="https://nextjs.org" target="_blank">
@@ -85,8 +85,8 @@
 </p>
 
 <p align="center">
-	<a href="https://candida-noronha.web.app/"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/website.png" alt="Website"/></a>
+	<a href="https://shahbazi.github.io/"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/website.png" alt="Website"/></a>
 	<a href="mailto:shahbaziweb@gmail.com"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/mohammadreza99"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/mohammadrezashahbazi"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://linkedin.com/in/mohammadrezashahbazi"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/linkedin.png" alt="LinkedIn"/></a>
 </p>
