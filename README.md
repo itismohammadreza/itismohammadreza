@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **shahbaziweb@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/Mohammadreza-Shahbazi.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://raw.githubusercontent.com/mohammadreza99/mohammadreza99/main/files/Mohammadreza-Shahbazi.pdf" target="blank">Resume</a>
 
 <br/>
 
