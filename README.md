@@ -19,7 +19,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 📝 Personal website [link](https://shahbazi.github.io)
+- 📝 Personal website [link](https://mohammadreza99.github.io)
 
 - 📫 How to reach me: **shahbaziweb@gmail.com**
 
@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-	<a href="https://shahbazi.github.io/"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/website.png" alt="Website"/></a>
+	<a href="https://mohammadreza99.github.io"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/website.png" alt="Website"/></a>
 	<a href="mailto:shahbaziweb@gmail.com"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/mohammadreza99"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/mohammadrezashahbazi"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/linkedin.png" alt="LinkedIn"/></a>
