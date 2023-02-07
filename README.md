@@ -15,15 +15,15 @@
 - 🌱 I’m a Self-taught Front-end developer
 
 - 🔭 I’m currently working in my UI component
-  set, <a href="https://github.com/mohammadreza99/prime-plus" target="blank">Prime Plus</a>
+  set, <a href="https://github.com/mohammadreza99/prime-plus" target="_blank">Prime Plus</a>
 
 - 🤝 I’m available for freelancing.
 
-- 📝 Personal website [link](https://mohammadreza99.github.io)
+- 📝 Personal website <a href="https://mohammadreza99.github.io" target="_blank">link</a>
 
-- 📫 How to reach me: **shahbaziweb@gmail.com**
+- 📫 Reach at: <a href="mailto:shahbaziweb@gmail.com">shahbaziweb@gmail.com</a> 
 
-- 📄 Know about my experiences, <a href="https://raw.githubusercontent.com/mohammadreza99/mohammadreza99/main/files/Mohammadreza-Shahbazi.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences, <a href="https://raw.githubusercontent.com/mohammadreza99/mohammadreza99/main/files/Mohammadreza-Shahbazi.pdf" target="_blank">Resume</a>
 
 <br/>
 
@@ -85,8 +85,8 @@
 </p>
 
 <p align="center">
-	<a href="https://mohammadreza99.github.io"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/website.png" alt="Website"/></a>
-	<a href="mailto:shahbaziweb@gmail.com"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/mohammadreza99"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/mohammadrezashahbazi"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/linkedin.png" alt="LinkedIn"/></a>
+	<a target="_blank" href="https://mohammadreza99.github.io"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/website.png" alt="Website"/></a>
+	<a target="_blank" href="mailto:shahbaziweb@gmail.com"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/gmail.png" alt="Gmail"/></a>
+	<a target="_blank" href="https://github.com/mohammadreza99"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/github.png" alt="GitHub"/></a>
+	<a target="_blank" href="https://linkedin.com/in/mohammadrezashahbazi"><img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/linkedin.png" alt="LinkedIn"/></a>
 </p>
