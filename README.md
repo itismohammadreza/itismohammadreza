@@ -15,7 +15,7 @@
 - 🌱 I’m a Self-taught Front-end developer
 
 - 🔭 I’m currently working in my UI component
-  set, <a href="https://github.com/mohammadreza99/prime-plus" target="_blank">Prime Plus</a>
+  set, <a href="https://github.com/mohammadreza99/powell" target="_blank">Powell</a>
 
 - 🤝 I’m available for freelancing.
 
