@@ -21,13 +21,19 @@
 
 - 📝 Personal website <a href="https://mohammadreza99.github.io" target="_blank">link</a>
 
-- 📫 Reach at: <a href="mailto:shahbaziweb@gmail.com">shahbaziweb@gmail.com</a> 
+- 📫 Reach at: <a href="mailto:shahbaziweb@gmail.com">shahbaziweb@gmail.com</a>
 
-- 📄 Know about my experiences, <a href="https://raw.githubusercontent.com/mohammadreza99/mohammadreza99/main/files/Mohammadreza-Shahbazi.pdf" target="_blank">Resume</a>
+- 📄 Know about my
+  experiences, <a href="https://raw.githubusercontent.com/mohammadreza99/mohammadreza99/main/files/Mohammadreza-Shahbazi.pdf" target="_blank">
+  Resume</a>
 
 <br/>
 
-## <img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/code.gif" width="35px"> **Tools, Technologies and Languages**
+<img alt="stats" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadreza99" />
+<img alt="most used languages" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadreza99&layout=compact&langs_count=8&card_width=320" />
+
+## <img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/code.gif" width="35px"> **Tools,
+Technologies and Languages**
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/html.svg" alt="html">
@@ -78,7 +84,8 @@
 	<img height="40" src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/redux.svg" alt="redux">
 </a> -->
 
-## <img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/handshake.gif" width="35px"> **Let's Connect..!**
+## <img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/handshake.gif" width="35px"> **Let's
+Connect..!**
 
 <p align="center">
 	<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
