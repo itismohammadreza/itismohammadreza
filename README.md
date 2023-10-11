@@ -4,7 +4,6 @@
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mohammadreza99/mohammadreza99/output/github-contribution-grid-snake-dark.svg" />
-
 </div>
 
 ## <img src="https://github.com/mohammadreza99/mohammadreza99/blob/main/files/about.gif" width="35px"> **About me**
