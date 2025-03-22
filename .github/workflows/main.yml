@@ -2,8 +2,8 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  # اجرا هر روز در ساعت 00:00 UTC
-  workflow_dispatch:  # امکان اجرای دستی
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
 
 jobs:
   generate-snake:
