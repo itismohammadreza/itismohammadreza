@@ -25,6 +25,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+          git rm -r --cached dist/         
           git add dist/
           git commit -m "Updated Snake Game Contribution Grid" || echo "No changes to commit"
           git push
